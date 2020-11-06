@@ -69,11 +69,11 @@ LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Rode piste
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** - Responsive 
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp- nog doen
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
