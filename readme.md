@@ -73,11 +73,11 @@ LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
 
 **Je focus:** - Responsive 
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp- nog doen
+**Je opdracht:** -link naar de website die je gaat namaken: https://www.volkswagen.nl -
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/volkswagen1.png" width="375px" alt="Home-pagina van de volkswagen website">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
