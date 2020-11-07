@@ -77,8 +77,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/volkswagen1.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/volkswagen1.jpg" width="375px" alt="Home-pagina van de volkswagen website">
+
+<img src="images/volkswagen2.jpg" width="375px" alt="Home-pagina van de volkswagen website">
+
+<img src="images/volkswagen3.jpg" width="375px" alt="Home-pagina van de volkswagen website">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/volkswagen4.jpg" width="375px" alt="Modellen-pagina van de volkswagen website">
+
+<img src="images/volkswagen5.jpg" width="375px" alt="Modellen-pagina van de volkswagen website">
