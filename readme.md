@@ -69,7 +69,7 @@ LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** Rode piste
+**Je startniveau:** Blauwe piste
 
 **Je focus:** - Responsive 
 
@@ -79,6 +79,12 @@ LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
 
 <img src="images/volkswagen1.jpg" width="375px" alt="Home-pagina van de volkswagen website">
 
+<img src="images/volkswagen2.jpg" width="375px" alt="Home-pagina van de volkswagen website">
+
+<img src="images/volkswagen3.jpg" width="375px" alt="Home-pagina van de volkswagen website">
+
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/volkswagen2.jpg" width="375px" alt="Modellen-pagina van de volkswagen website">
+<img src="images/volkswagen4.jpg" width="375px" alt="Modellen-pagina van de volkswagen website">
+
+<img src="images/volkswagen5.jpg" width="375px" alt="Modellen-pagina van de volkswagen website">
