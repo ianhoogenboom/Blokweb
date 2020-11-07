@@ -81,4 +81,4 @@ LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/" width="375px" alt="omschrijving van de pagina">
+<img src="images/volkswagen2.jpg" width="375px" alt="Modellen-pagina van de volkswagen website">
