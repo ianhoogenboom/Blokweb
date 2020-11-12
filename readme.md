@@ -64,6 +64,14 @@ LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
 
 <img src="images/breakdown1.jpg" width="375px" alt="breakdownschets van de volkswagen website">
 
+<img src="images/breakdown2.jpg" width="375px" alt="breakdownschets van de volkswagen website">
+
+<img src="images/breakdown3.jpg" width="375px" alt="breakdownschets van de volkswagen website">
+
+<img src="images/breakdown4.jpg" width="375px" alt="breakdownschets van de volkswagen website">
+
+<img src="images/breakdown5.jpg" width="375px" alt="breakdownschets van de volkswagen website">
+
 
 
 ## Intake (week 1)
