@@ -62,7 +62,7 @@ LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="images/breakdown1.jpg" width="375px" alt="breakdownschets van de volkswagen website">
 
 
 
