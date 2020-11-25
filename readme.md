@@ -38,11 +38,12 @@ LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Ik ben nog niet begonnen met de website, 
+maar de huiswerk opdrachten tot nu toe lukken aardig.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+Heb ik nog niet.
 
 ### Agenda voor meeting
 
