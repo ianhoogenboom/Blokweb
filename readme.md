@@ -47,7 +47,7 @@ Heb ik nog niet.
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+
 | Bente                 | Joep                   | Merel              | Ian                                 |
 | ---                   | ---                    | ---                | ---                                 |
 | Hoe plaats je         | Hoe je een website     | Heeft een vraag    | De layout /                         |
@@ -60,7 +60,7 @@ Bente: Hoe komt een summary open te staan?
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Bovenstaande vragen gaan wij tijdens de meeting vragen en daarnaast gaan wij verder of maken we een start met onze website.
 
 
 
