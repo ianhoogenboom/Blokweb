@@ -48,11 +48,15 @@ Heb ik nog niet.
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
-| Bente                 | Joep                   | Merel        | Ian                                 |
-| ---                   | ---                    | ---          | ---                                 |
-| Hoe plaats je         | Hoe je een website     | en ik dit    | De layout /                         |
-| een dropdown icoon    | simpel responsive maakt| nog een punt | positionering van plaatjes          |
-| naast de summary      | ...                    | ...          | Dit weekend ga ik een start maken   |
+| Bente                 | Joep                   | Merel              | Ian                                 |
+| ---                   | ---                    | ---                | ---                                 |
+| Hoe plaats je         | Hoe je een website     | Heeft een vraag    | De layout /                         |
+| een dropdown icoon    | simpel responsive maakt| over de layout van | positionering van plaatjes          |
+| naast de summary      | ...                    | het hamburger menu | Dit weekend ga ik een start maken   |
+
+
+Bente: Hoe komt een summary open te staan?
+
 
 ### Verslag van meeting
 
