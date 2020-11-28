@@ -1,5 +1,16 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box;
+}
+
+header {
+    background-image: url(https://www.volkswagen.nl/-/media/vwpkw/images/homepage/homepage-hero-polo-pl-sm-v3.ashx);
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+header {
+    color:white
 }
 

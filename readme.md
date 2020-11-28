@@ -3,10 +3,10 @@
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
-LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
+
 
 ## Bronnenlijst
-1. -bron 1-
+1. Afbeelding header: https://www.volkswagen.nl/-/media/vwpkw/images/homepage/homepage-hero-polo-pl-sm-v3.ashx
 2. -bron 2-
 3. -...-
 
@@ -38,7 +38,7 @@ LINK WEBSITE: https://ianhoogenboom.github.io/Blokweb/
 
 ### Stand van zaken
 
-Ik ben nog niet begonnen met de website, 
+Ik ben nog niet begonnen met de website,
 maar de huiswerk opdrachten tot nu toe lukken aardig.
 
 **Screenshot(s):**
