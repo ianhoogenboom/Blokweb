@@ -3,14 +3,44 @@
   box-sizing:border-box;
 }
 
+h1, h2, h3, h4, h5, h6,  {
+    font-family: VWHeadWeb,Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+
+
 header {
-    background-image: url(https://www.volkswagen.nl/-/media/vwpkw/images/homepage/homepage-hero-polo-pl-sm-v3.ashx);
+    background-image: url(../images/VolkswagenHomeBanner.jpg);
     background-size:cover;
     background-position:center;
     background-repeat: no-repeat;
+
 }
 
 header {
     color:white
 }
 
+.keuzehulp {
+    background: linear-gradient(0deg, rgba(1, 29, 80, 1) 50%, rgba(3, 44, 100, 1) 100%);
+    color:white;
+}
+
+
+.test {
+    list-style:none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.test li {
+    padding: 2em;
+    text-align: center;
+    text-decoration: underline;
+
+
+}

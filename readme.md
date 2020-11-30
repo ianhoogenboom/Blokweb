@@ -7,8 +7,26 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. Afbeelding header: https://www.volkswagen.nl/-/media/vwpkw/images/homepage/homepage-hero-polo-pl-sm-v3.ashx
-2. -bron 2-
-3. -...-
+
+2. Afbeelding corona: https://www.volkswagen.nl/-/media/vwpkw/images/homepage/corona-16-logo.ashx?w=507&q=70&hash=E52C1D11A9DAF92345C9B9D10A180AAC
+
+3. Afbeeldingen grid: https://presspage-production-content.s3.amazonaws.com/uploads/1397/500_volkswagenarteonshootingbrake-2.jpg?10000
+https://www.volkswagen.nl/-/media/vwpkw/images/homepage/tile-module/id3tje/tile-id3tje-1x1.ashx?w=1013&q=70&hash=3FF0F30F9EEE465C763F455125A2BFB3
+https://www.volkswagen.nl/-/media/vwpkw/images/modellen/id4/id4-homepage-tile-onthulling.ashx?w=1223&q=70&hash=2912D427007B42B3ECC3FFE111C8B55A
+https://www.volkswagen.nl/-/media/vwpkw/images/homepage/tile-module/id3-1-1.ashx?w=507&q=70&hash=91C7739410B4AE1F8D1E5C37111785C4
+https://www.volkswagen.nl/-/media/vwpkw/images/homepage/tile-module/golf-variant-tile.ashx?w=1013&q=70&hash=E7CC6CF698A382E4AE655ED37C6092EE
+https://www.volkswagen.nl/-/media/vwpkw/images/homepage/tile-module/tile-homepagine-bandenwissel-16x9-v3.ashx?w=1013&q=70&hash=E0143C3EA1CA509AFBD84417E0D34C8A
+
+4. fonts: https://www.volkswagen.nl/Fonts/VW-PKW/VWHeadWeb-Bold.woff2
+https://www.volkswagen.nl/Fonts/VW-PKW/VWHeadWeb-Light.woff2
+https://www.volkswagen.nl/Fonts/VW-PKW/VWHeadWeb-Regular.woff2
+https://www.volkswagen.nl/Fonts/VW-PKW/VWTextWeb-Bold.woff2
+https://www.volkswagen.nl/Fonts/VW-PKW/VWTextWeb-Regular.woff2
+
+5. iconen; https://www.volkswagen.nl/Images/vw-pkw/logo__image.svg
+
+
+
 
 
 
