@@ -48,7 +48,25 @@ https://www.volkswagen.nl/Fonts/VW-PKW/VWTextWeb-Regular.woff2
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Ik ben bezig met mijn menu, maar met de rest van de website loop ik een beetje vast met waar ik moet beginnen
+
+**Screenshot(s):**
+
+<img src="images/ssweek5.jpg" width="375px" alt="breakdownschets van de volkswagen website">
+
+### Agenda voor meeting
+
+
+Bente: Ik wil graag hulp met js voor de 'slider'
+Ik wil graag hulp bij de vekleuring van de achtergrond bij verschillende telefoonformaten-
+Joep:
+Merel: Ik wil graag weten in hoe ver mijn formulier moet werken
+Ian: Ik wil graag wat hulp met m'n javascript
+
+
+### Verslag van meeting
+
+Wij gaan verder met onze website en gaan onze vragen stellen in de meeting.
 
 
 

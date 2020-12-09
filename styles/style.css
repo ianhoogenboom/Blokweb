@@ -1,6 +1,8 @@
 /* CSS Document */
 *, *::after, *::before {
   box-sizing:border-box;
+
+
 }
 
 h1, h2, h3, h4, h5, h6,  {
@@ -9,7 +11,9 @@ h1, h2, h3, h4, h5, h6,  {
     margin-top: 0;
 }
 
-
+body {
+    margin:0;
+}
 
 header {
     background-image: url(../images/VolkswagenHomeBanner.jpg);
@@ -20,8 +24,43 @@ header {
 }
 
 header {
-    color:white
+    color:white;
+    position:relative;
+
+
 }
+
+header button {
+    position:relative;
+  width:5em; height:2.5em;
+  font-size:1em;
+  background-color:transparent;
+  border:none;
+  border-radius:.25em;
+  appearance:none;
+  cursor:pointer;
+  color: white;
+
+}
+header nav ul   {
+    position: fixed;
+    margin:0;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    background-color: white;
+    color: #001e50;
+    transform:translateX(-100%);
+
+}
+
+header nav li  {
+    list-style-type:none;
+    padding: 1em;
+
+}
+
 
 .keuzehulp {
     background: linear-gradient(0deg, rgba(1, 29, 80, 1) 50%, rgba(3, 44, 100, 1) 100%);
