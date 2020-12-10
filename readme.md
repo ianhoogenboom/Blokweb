@@ -58,9 +58,9 @@ Ik ben bezig met mijn menu, maar met de rest van de website loop ik een beetje v
 
 
 Bente: Ik wil graag hulp met js voor de 'slider'
-Ik wil graag hulp bij de vekleuring van de achtergrond bij verschillende telefoonformaten-
-Joep:
-Merel: Ik wil graag weten in hoe ver mijn formulier moet werken
+Ik wil graag hulp bij de vekleuring van de achtergrond bij verschillende telefoonformaten- |
+Joep: Ik wil weten of je meerdere ul in je navigatie mag gebruiken |
+Merel: Ik wil graag weten in hoe ver mijn formulier moet werken |
 Ian: Ik wil graag wat hulp met m'n javascript
 
 
