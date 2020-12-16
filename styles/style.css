@@ -1,47 +1,51 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
 
 
 }
 
-h1, h2, h3, h4, h5, h6,  {
-    font-family: VWHeadWeb,Helvetica, Arial, sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+    {
+    font-family: VWHeadWeb, Helvetica, Arial, sans-serif;
     font-weight: 700;
     margin-top: 0;
 }
 
 body {
-    margin:0;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.5;
 }
+
+/*De volgende stijlelementen zijn voor de header*/
 
 header {
     background-image: url(../images/VolkswagenHomeBanner.jpg);
-    background-size:cover;
-    background-position:center;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
+
 
 }
 
 header {
-    color:white;
-    position:relative;
+    color: white;
+    position: relative;
 
 
-}
-
-header button {
-    position:relative;
-  width:5em; height:2.5em;
-  font-size:1em;
-  background-color:transparent;
-  border:none;
-  border-radius:.25em;
-  appearance:none;
-  cursor:pointer;
-  color: white;
 
 }
+
+÷
+/*
 header nav ul   {
     position: fixed;
     margin:0;
@@ -51,35 +55,138 @@ header nav ul   {
     bottom:0;
     background-color: white;
     color: #001e50;
-    transform:translateX(-100%);
+    transform:translateX(-10%);
+    transition:1s;
+
+}
+*/
+
+
+
+
+.toonMenu {
+    transform: translateX(0%);
 
 }
 
-header nav li  {
-    list-style-type:none;
-    padding: 1em;
+
+header h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: .5em;
 
 }
 
+header h2 {
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: .5em;
+    max-width: 15em;
+
+}
+
+header nav li {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+
+
+}
+
+header li {
+    list-style-type: none;
+    font-size: 13px;
+    font-weight: bold;
+    padding: .5em;
+    margin-left: 1em;
+    max-width: 20em;
+
+
+}
+
+header button {
+
+    margin-left: 1em;
+    background-color: black;
+    padding: .75em 2.5em;
+    border-radius: 2em;
+    background: #00b0f0;
+    border: 2px solid #00b0f0;
+    cursor: pointer;
+}
+
+header button a {
+    color: #001e50;
+    text-decoration: none;
+}
+
+/*De volgende stijlelementen zijn voor de hulp bij keuze sectie*/
 
 .keuzehulp {
     background: linear-gradient(0deg, rgba(1, 29, 80, 1) 50%, rgba(3, 44, 100, 1) 100%);
-    color:white;
+    color: white;
+    height: 40vh;
+    margin: 0;
 }
 
+/*De volgende stijlelementen zijn voor de zoeken met iconen sectie*/
 
-.test {
-    list-style:none;
+.opzoek h6 {
+    text-align: center;
+    font-size: 1rem;
+
+}
+
+.opzoek ul {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    list-style: none;
 
 }
 
-.test li {
-    padding: 2em;
-    text-align: center;
+.opzoek li {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 50%;
+    padding: 1em;
     text-decoration: underline;
+    text-align: center;
 
+}
 
+.opzoek li img {
+    height: 5em;
+    width: 6em;
+    margin-left: 1.5em;
+
+}
+
+/*Deze stijling gaat over het corona update gedeelte */
+
+section:nth-of-type(3) img {}
+
+section:nth-of-type(3) h5 {
+    margin-left: 1em;
+}
+
+section:nth-of-type(3) p {
+    margin: 1em 1em;
+
+}
+
+section:nth-of-type(3) button {
+
+    margin:1em;
+    background-color: black;
+    padding: .75em 2.5em;
+    border-radius: 2em;
+    background: #00b0f0;
+    border: 2px solid #00b0f0;
+    cursor: pointer;
+}
+
+section:nth-of-type(3) button a {
+
+    color: #001e50;
+    text-decoration: none;
 }

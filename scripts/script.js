@@ -1,9 +1,15 @@
 // JavaScript Document
 var deButton = document.querySelector("header nav button");
+var deNav = document.querySelector("header nav ");
 
 deButton.addEventListener('click',openMenu);
 
 function openMenu(event) {
-    var deNav document.querySelector("header nav");
-    deNav.classList.toggle(toonMenu);
+
+    deNav.classList.toggle('toonMenu');
 }
+
+
+
+
+
